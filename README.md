@@ -5,11 +5,26 @@
 
 ## FastQC reports
 
-| **AQI** | **AQH** | **AOG** |
-| ------------- | ------------- |--------------------|
-| ![image](https://user-images.githubusercontent.com/93160309/157733844-7145aff8-8c91-4183-992c-3e70303c46d8.png)
-| ![image](https://user-images.githubusercontent.com/93160309/157733944-614d170d-38d3-4a3f-b266-2aa63d73864e.png)
-| ![image](https://user-images.githubusercontent.com/93160309/157734001-0e42b42f-3cc8-48e2-afce-607fe38366d8.png)
-|
-| ![image](https://user-images.githubusercontent.com/93095449/157494642-dbabcdf0-a2b1-456f-a06e-6fbc7ec07eb3.png) | ![image](https://user-images.githubusercontent.com/93095449/157496166-2250fc8b-e86d-40e2-9f61-1b2f20bc8657.png) | ![image](https://user-images.githubusercontent.com/93095449/157496377-fdbae06d-3693-4b17-9151-8784ba7409a4.png) |
-| ![image](https://user-images.githubusercontent.com/93095449/157494746-de7dda1c-668e-4743-94c7-8e281a54ea38.png) | ![image](https://user-images.githubusercontent.com/93095449/157496224-279df110-6025-450f-8219-5cf06ef98d5e.png) | ![image](https://user-images.githubusercontent.com/93095449/157496439-ace6b7df-086e-4386-b203-7adc027e3fe1.png) |
+### AQI
+
+![image](https://user-images.githubusercontent.com/93160309/157734342-4145ca93-9191-4bb7-9944-565d1a203376.png)
+
+![image](https://user-images.githubusercontent.com/93160309/157734415-eb008e87-c189-4d47-ad1c-5464b807548c.png)
+
+![image](https://user-images.githubusercontent.com/93160309/157734767-fb973a0e-bbb8-4470-a369-2a2340535318.png)
+
+### AQH
+
+![image](https://user-images.githubusercontent.com/93160309/157734838-0f911962-936b-4b93-9ac5-ee74220286e0.png)
+
+![image](https://user-images.githubusercontent.com/93160309/157734878-1cbdbb24-1d74-4786-bf4c-7360108fdc7d.png)
+
+![image](https://user-images.githubusercontent.com/93160309/157734948-78fefdb1-8eb4-45f9-b03c-13b8fb24833d.png)
+
+### AOG
+
+![image](https://user-images.githubusercontent.com/93160309/157734998-85d97628-515c-4801-9b44-1db664b6d6ec.png)
+
+![image](https://user-images.githubusercontent.com/93160309/157735031-e8b64d59-e881-4f6b-ac55-e8bacead90c2.png)
+
+![image](https://user-images.githubusercontent.com/93160309/157735070-4798e938-11d2-476b-ad10-1d1b970b8731.png)
